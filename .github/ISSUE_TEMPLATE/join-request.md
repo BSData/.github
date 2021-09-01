@@ -7,6 +7,7 @@ assignees: ''
 
 ---
 
+<!-- Keep the '[Join Request]' prefix in the title - you may add content after it -->
 <!-- Introduce yourself and state your intentions -->
 
 Hi, I'm NiceGuy123,

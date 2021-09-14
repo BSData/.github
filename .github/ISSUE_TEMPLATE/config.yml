@@ -1,0 +1,9 @@
+contact_links:
+  - name: Bug Report [anonymous]
+    url: https://battlescribedata.appspot.com/
+    about: |
+      Report a bug without GitHub account in 3 steps on the linked page:
+      1. Click 'Details/Report Bug' under appropriate game system.
+      2. Click 'Report a bug' under appropriate catalogue.
+      3. Fill and submit the form!
+      Profit!

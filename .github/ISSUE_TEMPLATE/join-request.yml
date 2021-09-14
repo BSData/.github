@@ -1,0 +1,36 @@
+name: Join Request
+description: |
+  To request write permissions open a Join Request.
+  Repository maintainers will resolve it at their convenience.
+title: "[Join Request]"
+labels:
+  - Join Request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest in contributing to this repository.
+        
+        Before continuing, please read our [Contributing rules](https://github.com/BSData/.github/blob/main/CONTRIBUTING.md)
+        as it contains helpful information.
+
+  - type: input
+    attributes:
+      label: Reference contact
+      description: |
+        If you already contacted people on Discord,
+        please `@`-mention them here by their GitHub handle
+        to get their attention.
+   
+  - type: input
+    attributes:
+      label: Your Discord
+      description: |
+        Please share your Discord handle or display name (without `#xxxx` code),
+        so we know who you are on our server and can assign you Data Dev role.
+
+  - type: textarea
+    attributes:
+      label: Additional information
+      description: |
+        Put here any additional input.

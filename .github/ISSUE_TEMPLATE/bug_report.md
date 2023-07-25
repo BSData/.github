@@ -25,8 +25,9 @@ If applicable, add screenshots to help explain your problem.
 
 **Device and data (please complete the following information):**
  - OS: [e.g. iOS]
- - BattleScribe version [e.g. 2.03.45]
- - Release version [e.g. v1.2.3]
+ - App being used to create lists [e.g. New Recruit, Bluescribe, Battlescribe]
+ - App version
+ - Data release version [e.g. v1.2.3]
 
 **Additional context**
 Add any other context about the problem here.
